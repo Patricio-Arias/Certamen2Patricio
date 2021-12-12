@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "313846469551",
+    "firebase_url": "https://localizador2000-default-rtdb.firebaseio.com",
+    "project_id": "localizador2000",
+    "storage_bucket": "localizador2000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313846469551:android:65f3fac3d5dd4601f7955a",
+        "android_client_info": {
+          "package_name": "com.example.certamen2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313846469551-ldfn04c5ikgepk17s69c0s503ku49ueg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8VBZSUsrtuf6xXm7-wcDLubtV3qL6pCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313846469551-ldfn04c5ikgepk17s69c0s503ku49ueg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
